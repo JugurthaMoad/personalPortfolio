@@ -4,7 +4,6 @@ const Item3 = () => {
       This project is about creating a responsive E-Sotre web application with
       the use of : Javascript, ReactJs, tailwindCss.
       <div className="links">
-        <a href="#">View Site</a>
         <a
           href="https://github.com/JugurthaMoad/e_store"
           target="blank"

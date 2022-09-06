@@ -5,9 +5,8 @@ const Item4 = () => {
       manage his stock as well as the sales, with the use of : ReactNative,
       ExpressJs, MongoDb, Rest API.
       <div className="links">
-        <a href="#">View Site</a>
         <a
-          href="https://github.com/JugurthaMoad/PromodoFocus"
+          href="https://github.com/JugurthaMoad/AouriMedMobileApp"
           target="blank"
           rel="noopener"
         >

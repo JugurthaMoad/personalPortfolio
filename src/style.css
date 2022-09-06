@@ -70,11 +70,15 @@
   width: 2rem;
   height: 2rem;
 }
+.icon:hover {
+  cursor: pointer;
+}
 .header_icons {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.4rem;
+  z-index: 999;
 }
 
 .sub_content {

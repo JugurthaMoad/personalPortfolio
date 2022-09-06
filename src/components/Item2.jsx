@@ -5,7 +5,13 @@ const Item2 = () => {
       with a small online store to buy products with the use of : JavaScript,
       ReactJs, StyledComponents.
       <div className="links">
-        <a href="#">View Site</a>
+        <a
+          href="https://barbershopefr.herokuapp.com/"
+          target="blank"
+          rel="noopener"
+        >
+          View Site
+        </a>
         <a
           href="https://github.com/JugurthaMoad/BarberShop"
           target="blank"
