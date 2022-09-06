@@ -156,9 +156,16 @@
   position: relative;
   transition: all 0.2s ease-in-out;
 }
-.project:hover {
-  padding: 0rem 1rem;
-  cursor: pointer;
+
+@media screen and (min-width: 700px) {
+  .text_anim {
+    width: 22rem;
+    height: 6rem;
+  }
+  .project:hover {
+    padding: 0rem 1rem;
+    cursor: pointer;
+  }
 }
 .pro_deco {
   width: 100%;
