@@ -5,7 +5,7 @@ const Item1 = () => {
       feature "each finished task is crossed out automatically", with the use of
       : TypeScript, ReactJs, Css3.
       <div className="links">
-        <a href="https://focusu.herokuapp.com/" target="blank" rel="noopener">
+        <a href="https://jugurthamoad.github.io/PromodoFocus/" target="blank" rel="noopener">
           View Site
         </a>
         <a

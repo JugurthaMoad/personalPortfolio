@@ -6,7 +6,7 @@ const Item2 = () => {
       ReactJs, StyledComponents.
       <div className="links">
         <a
-          href="https://barbershopefr.herokuapp.com/"
+          href="https://jugurthamoad.github.io/BarberShop/"
           target="blank"
           rel="noopener"
         >
