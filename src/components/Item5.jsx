@@ -16,6 +16,15 @@ const Item5 = ()=>{
     return(<div>
         This project is about creating a responsive web game with the use of :
         JavaScript, ReactJs, Css, NodeJs. 
+        <div className="links">
+            <a
+            href="https://betting-p63e.onrender.com/"
+            target="blank"
+            rel="noopener" 
+            >
+                View Site
+            </a>
+        </div>
         <div 
         onClick={handleClick}
         className="link">
