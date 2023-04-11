@@ -28,6 +28,9 @@ const Projects = ({ handleChange }) => {
           <li>
             <ProDeco onClick={() => handleChange(3)} name="AouriMed" />
           </li>
+          <li>
+            <ProDeco onClick={() => handleChange(4)} name="Zerda game" />
+          </li>
         </ul>
       </motion.div>
     </>

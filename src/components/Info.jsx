@@ -6,6 +6,7 @@ import Item1 from "./Item1";
 import Item4 from "./Item4";
 import Item3 from "./Item3";
 import Item2 from "./Item2";
+import Item5 from "./Item5";
 
 const items = [
   {
@@ -24,7 +25,12 @@ const items = [
     title: "AouriMed",
     item: () => <Item4 />,
   },
+  {
+    title: "Zerda game",
+    item: () => <Item5 />,
+  },
 ];
+console.log('items = ', items)
 const Info = () => {
   // by default display the biblio otherwise elmt passed in props
   const [change, setChange] = useState(false);
