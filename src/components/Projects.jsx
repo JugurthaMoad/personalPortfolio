@@ -16,7 +16,7 @@ const Projects = ({ handleChange }) => {
           <li>
             <ProDeco
               onClick={() => handleChange(0)}
-              name="Copy of pomofocus.io"
+              name="Zerda game"
             />
           </li>
           <li>
@@ -29,7 +29,7 @@ const Projects = ({ handleChange }) => {
             <ProDeco onClick={() => handleChange(3)} name="AouriMed" />
           </li>
           <li>
-            <ProDeco onClick={() => handleChange(4)} name="Zerda game" />
+            <ProDeco onClick={() => handleChange(4)} name="Copy of pomofocus.io" />
           </li>
         </ul>
       </motion.div>

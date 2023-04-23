@@ -13,9 +13,8 @@ const Item5 = ()=>{
     }
     // hide by default
     const [display, setDisplay] = useState(false)
-    return(<div>
-        This project is about creating a responsive web game with the use of :
-        JavaScript, ReactJs, Css, NodeJs. 
+    return(<div className="pro_desc">
+        I created a web-based game that's responsive and accessible across all devices. To build the game, I utilized a range of cutting-edge front-end and back-end technologies. For the front-end, I used <span className="tech">JavaScript</span> and <span className="tech">ReactJS</span> to create an engaging and interactive user interface. I also implemented <span className="tech">CSS</span> to ensure a seamless and visually appealing experience. On the back-end, I leveraged <span className="tech">NodeJS</span> to handle server-side functionality and integrate with a NoSQL database, specifically <span className="tech">MongoDB</span>.
         <div className="links">
             <a
             href="https://betting-p63e.onrender.com/"

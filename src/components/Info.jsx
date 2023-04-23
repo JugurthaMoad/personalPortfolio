@@ -10,8 +10,8 @@ import Item5 from "./Item5";
 
 const items = [
   {
-    title: "Copy of pomofocus.io",
-    item: () => <Item1 />,
+    title: "Zerda game",
+    item: () => <Item5 />,
   },
   {
     title: "Barber shop",
@@ -26,8 +26,9 @@ const items = [
     item: () => <Item4 />,
   },
   {
-    title: "Zerda game",
-    item: () => <Item5 />,
+    
+    title: "Copy of pomofocus.io",
+    item: () => <Item1 />,
   },
 ];
 console.log('items = ', items)

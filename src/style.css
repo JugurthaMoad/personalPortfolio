@@ -130,6 +130,7 @@
   height: auto;
 }
 .biblio_container {
+  line-height: 1.7rem !important;
 }
 .text_anim {
   width: 50vw;
@@ -156,7 +157,9 @@
   position: relative;
   transition: all 0.2s ease-in-out;
 }
-
+.pro_desc{
+  line-height:2rem !important;
+}
 @media screen and (min-width: 700px) {
   .text_anim {
     width: 22rem;
@@ -196,6 +199,10 @@
   text-decoration: underline;
   padding-top: 10px;
   cursor: pointer;
+}
+.tech{
+  font-weight: bold;
+  color: #ff2f2fb6;
 }
 @media screen and (min-width: 500px) {
   .deco1,
@@ -266,6 +273,7 @@
 .hide{
   display: none;
 }
+
 @media screen and (max-width: 400px) {
   .video_content {
     width: 90vw;
